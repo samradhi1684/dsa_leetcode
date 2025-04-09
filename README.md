@@ -12,6 +12,7 @@ learning dsa and leetcode
 | [0189-rotate-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/samradhi1684/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/samradhi1684/dsa_leetcode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/samradhi1684/dsa_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
@@ -50,4 +51,8 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samradhi1684/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
