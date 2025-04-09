@@ -13,6 +13,7 @@ learning dsa and leetcode
 | [0238-product-of-array-except-self](https://github.com/samradhi1684/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/samradhi1684/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/samradhi1684/dsa_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samradhi1684/dsa_leetcode/tree/master/0169-majority-element) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Divide and Conquer
 |  |
 | ------- |
