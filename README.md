@@ -61,6 +61,11 @@ learning dsa and leetcode
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/samradhi1684/dsa_leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/samradhi1684/dsa_leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0392-is-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/samradhi1684/dsa_leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
