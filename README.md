@@ -19,6 +19,7 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/samradhi1684/dsa_leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/samradhi1684/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0392-is-subsequence) |
@@ -60,5 +61,6 @@ learning dsa and leetcode
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/samradhi1684/dsa_leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
