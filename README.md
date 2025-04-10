@@ -21,6 +21,7 @@ learning dsa and leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/samradhi1684/dsa_leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samradhi1684/dsa_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +57,8 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
