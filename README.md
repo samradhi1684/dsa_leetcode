@@ -34,6 +34,7 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samradhi1684/dsa_leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/samradhi1684/dsa_leetcode/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -75,4 +76,5 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/samradhi1684/dsa_leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/samradhi1684/dsa_leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
