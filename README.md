@@ -8,6 +8,7 @@ learning dsa and leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samradhi1684/dsa_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/samradhi1684/dsa_leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/samradhi1684/dsa_leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/samradhi1684/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
@@ -70,4 +71,8 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/samradhi1684/dsa_leetcode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/samradhi1684/dsa_leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
