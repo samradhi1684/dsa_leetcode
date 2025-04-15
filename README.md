@@ -29,6 +29,7 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samradhi1684/dsa_leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/samradhi1684/dsa_leetcode/tree/master/0205-isomorphic-strings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Divide and Conquer
 |  |
@@ -68,6 +69,7 @@ learning dsa and leetcode
 | [0014-longest-common-prefix](https://github.com/samradhi1684/dsa_leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/samradhi1684/dsa_leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/samradhi1684/dsa_leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/samradhi1684/dsa_leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
