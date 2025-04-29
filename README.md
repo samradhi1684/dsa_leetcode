@@ -11,6 +11,7 @@ learning dsa and leetcode
 | [0136-single-number](https://github.com/samradhi1684/dsa_leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/samradhi1684/dsa_leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/samradhi1684/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/samradhi1684/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/samradhi1684/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -30,6 +31,7 @@ learning dsa and leetcode
 | ------- |
 | [0169-majority-element](https://github.com/samradhi1684/dsa_leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/samradhi1684/dsa_leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/samradhi1684/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Divide and Conquer
 |  |
@@ -81,4 +83,8 @@ learning dsa and leetcode
 | [0136-single-number](https://github.com/samradhi1684/dsa_leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/samradhi1684/dsa_leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/samradhi1684/dsa_leetcode/tree/master/0338-counting-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/samradhi1684/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
