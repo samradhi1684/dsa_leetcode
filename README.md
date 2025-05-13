@@ -6,6 +6,7 @@ learning dsa and leetcode
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/samradhi1684/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samradhi1684/dsa_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -22,6 +23,7 @@ learning dsa and leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/samradhi1684/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/samradhi1684/dsa_leetcode/tree/master/0125-valid-palindrome) |
@@ -73,6 +75,7 @@ learning dsa and leetcode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/samradhi1684/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## String
 |  |
