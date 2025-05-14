@@ -7,6 +7,7 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/samradhi1684/dsa_leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/samradhi1684/dsa_leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samradhi1684/dsa_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -24,6 +25,7 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/samradhi1684/dsa_leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/samradhi1684/dsa_leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/samradhi1684/dsa_leetcode/tree/master/0125-valid-palindrome) |
@@ -49,6 +51,7 @@ learning dsa and leetcode
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/samradhi1684/dsa_leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/samradhi1684/dsa_leetcode/tree/master/0169-majority-element) |
 ## Counting
