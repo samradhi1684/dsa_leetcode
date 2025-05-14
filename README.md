@@ -18,6 +18,7 @@ learning dsa and leetcode
 | [0219-contains-duplicate-ii](https://github.com/samradhi1684/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/samradhi1684/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/samradhi1684/dsa_leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/samradhi1684/dsa_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/samradhi1684/dsa_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -75,6 +76,7 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samradhi1684/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/samradhi1684/dsa_leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Greedy
 |  |
 | ------- |
@@ -108,4 +110,8 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samradhi1684/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/samradhi1684/dsa_leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
