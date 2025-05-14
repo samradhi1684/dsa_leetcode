@@ -20,6 +20,7 @@ learning dsa and leetcode
 | [0283-move-zeroes](https://github.com/samradhi1684/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/samradhi1684/dsa_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0560-subarray-sum-equals-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/samradhi1684/dsa_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
@@ -42,6 +43,7 @@ learning dsa and leetcode
 | [0205-isomorphic-strings](https://github.com/samradhi1684/dsa_leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/samradhi1684/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/samradhi1684/dsa_leetcode/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1297-maximum-number-of-balloons](https://github.com/samradhi1684/dsa_leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Divide and Conquer
@@ -77,6 +79,7 @@ learning dsa and leetcode
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samradhi1684/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/samradhi1684/dsa_leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
