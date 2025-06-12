@@ -120,4 +120,8 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/samradhi1684/dsa_leetcode/tree/master/0303-range-sum-query-immutable) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/samradhi1684/dsa_leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
