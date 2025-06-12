@@ -124,4 +124,5 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/samradhi1684/dsa_leetcode/tree/master/0175-combine-two-tables) |
+| [0595-big-countries](https://github.com/samradhi1684/dsa_leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
