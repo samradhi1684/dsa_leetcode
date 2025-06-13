@@ -131,5 +131,6 @@ learning dsa and leetcode
 | [0197-rising-temperature](https://github.com/samradhi1684/dsa_leetcode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/samradhi1684/dsa_leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/samradhi1684/dsa_leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0627-swap-salary](https://github.com/samradhi1684/dsa_leetcode/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
