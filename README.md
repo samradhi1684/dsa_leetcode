@@ -133,4 +133,5 @@ learning dsa and leetcode
 | [0596-classes-with-at-least-5-students](https://github.com/samradhi1684/dsa_leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-salary](https://github.com/samradhi1684/dsa_leetcode/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/1179-game-play-analysis-i) |
+| [1258-article-views-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
