@@ -134,6 +134,7 @@ learning dsa and leetcode
 | [0627-swap-salary](https://github.com/samradhi1684/dsa_leetcode/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/1258-article-views-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/samradhi1684/dsa_leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1670-patients-with-a-condition](https://github.com/samradhi1684/dsa_leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/samradhi1684/dsa_leetcode/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
