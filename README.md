@@ -139,6 +139,7 @@ learning dsa and leetcode
 | [1153-product-sales-analysis-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/1179-game-play-analysis-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/samradhi1684/dsa_leetcode/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/samradhi1684/dsa_leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
