@@ -21,6 +21,7 @@ learning dsa and leetcode
 | [0303-range-sum-query-immutable](https://github.com/samradhi1684/dsa_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/samradhi1684/dsa_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -112,6 +113,7 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/samradhi1684/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
