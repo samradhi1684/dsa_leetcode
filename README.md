@@ -40,6 +40,7 @@ learning dsa and leetcode
 | [0189-rotate-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/samradhi1684/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/samradhi1684/dsa_leetcode/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ learning dsa and leetcode
 | [0383-ransom-note](https://github.com/samradhi1684/dsa_leetcode/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/samradhi1684/dsa_leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/samradhi1684/dsa_leetcode/tree/master/0567-permutation-in-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1297-maximum-number-of-balloons](https://github.com/samradhi1684/dsa_leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -106,6 +108,7 @@ learning dsa and leetcode
 | [0205-isomorphic-strings](https://github.com/samradhi1684/dsa_leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/samradhi1684/dsa_leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/samradhi1684/dsa_leetcode/tree/master/0567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/samradhi1684/dsa_leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Trie
 |  |
@@ -121,6 +124,7 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/samradhi1684/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/samradhi1684/dsa_leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
