@@ -49,6 +49,7 @@ learning dsa and leetcode
 | [0205-isomorphic-strings](https://github.com/samradhi1684/dsa_leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/samradhi1684/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/samradhi1684/dsa_leetcode/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/samradhi1684/dsa_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/samradhi1684/dsa_leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/samradhi1684/dsa_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/samradhi1684/dsa_leetcode/tree/master/0567-permutation-in-string) |
@@ -108,6 +109,7 @@ learning dsa and leetcode
 | [0205-isomorphic-strings](https://github.com/samradhi1684/dsa_leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/samradhi1684/dsa_leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/samradhi1684/dsa_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/samradhi1684/dsa_leetcode/tree/master/0567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/samradhi1684/dsa_leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Trie
@@ -124,6 +126,7 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/samradhi1684/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/samradhi1684/dsa_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/samradhi1684/dsa_leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/samradhi1684/dsa_leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
