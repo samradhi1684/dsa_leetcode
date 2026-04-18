@@ -6,6 +6,7 @@ learning dsa and leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samradhi1684/dsa_leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/samradhi1684/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/samradhi1684/dsa_leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -44,6 +45,7 @@ learning dsa and leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samradhi1684/dsa_leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/samradhi1684/dsa_leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/samradhi1684/dsa_leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/samradhi1684/dsa_leetcode/tree/master/0205-isomorphic-strings) |
