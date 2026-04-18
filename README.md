@@ -11,6 +11,7 @@ learning dsa and leetcode
 | [0015-3sum](https://github.com/samradhi1684/dsa_leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/samradhi1684/dsa_leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/samradhi1684/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samradhi1684/dsa_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/samradhi1684/dsa_leetcode/tree/master/0136-single-number) |
@@ -63,6 +64,7 @@ learning dsa and leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/samradhi1684/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/samradhi1684/dsa_leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/samradhi1684/dsa_leetcode/tree/master/0191-number-of-1-bits) |
 ## Sorting
@@ -82,6 +84,7 @@ learning dsa and leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/samradhi1684/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samradhi1684/dsa_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/samradhi1684/dsa_leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0392-is-subsequence) |
