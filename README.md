@@ -17,6 +17,7 @@ learning dsa and leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samradhi1684/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/samradhi1684/dsa_leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/samradhi1684/dsa_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/samradhi1684/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/samradhi1684/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/samradhi1684/dsa_leetcode/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ learning dsa and leetcode
 | [0049-group-anagrams](https://github.com/samradhi1684/dsa_leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/samradhi1684/dsa_leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/samradhi1684/dsa_leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/samradhi1684/dsa_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/samradhi1684/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/samradhi1684/dsa_leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/samradhi1684/dsa_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -70,6 +72,7 @@ learning dsa and leetcode
 | [0049-group-anagrams](https://github.com/samradhi1684/dsa_leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/samradhi1684/dsa_leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/samradhi1684/dsa_leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
