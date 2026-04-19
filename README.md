@@ -23,6 +23,7 @@ learning dsa and leetcode
 | [0217-contains-duplicate](https://github.com/samradhi1684/dsa_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/samradhi1684/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/samradhi1684/dsa_leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/samradhi1684/dsa_leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/samradhi1684/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/samradhi1684/dsa_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/samradhi1684/dsa_leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -56,6 +57,7 @@ learning dsa and leetcode
 | [0205-isomorphic-strings](https://github.com/samradhi1684/dsa_leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/samradhi1684/dsa_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/samradhi1684/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/samradhi1684/dsa_leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/samradhi1684/dsa_leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/samradhi1684/dsa_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/samradhi1684/dsa_leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -78,6 +80,7 @@ learning dsa and leetcode
 | [0088-merge-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/samradhi1684/dsa_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samradhi1684/dsa_leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/samradhi1684/dsa_leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +98,7 @@ learning dsa and leetcode
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/samradhi1684/dsa_leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/samradhi1684/dsa_leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/samradhi1684/dsa_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Prefix Sum
@@ -132,6 +136,7 @@ learning dsa and leetcode
 | ------- |
 | [0136-single-number](https://github.com/samradhi1684/dsa_leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/samradhi1684/dsa_leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/samradhi1684/dsa_leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/samradhi1684/dsa_leetcode/tree/master/0338-counting-bits) |
 ## Sliding Window
 |  |
@@ -145,6 +150,7 @@ learning dsa and leetcode
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samradhi1684/dsa_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samradhi1684/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/samradhi1684/dsa_leetcode/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
